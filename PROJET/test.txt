@@ -1,0 +1,5 @@
+SELECT ?item ?itemLabel ?pic ?image 
+{
+?item wdt:P31 wd:Q14660 .
+?item wdt:P18 ?pic
+}
