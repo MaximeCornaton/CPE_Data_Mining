@@ -1,79 +1,88 @@
 {
     "Q4485657": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             2850,
             1900
         ],
         "format": "PNG"
     },
     "Q5515388": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             2032,
             1524
         ],
-        "format": "JPEG"
+        "format": "JPEG",
+        "orientation": 1,
+        "date": "2007:11:02 15:17:17",
+        "model": "KODAK CX7330 ZOOM DIGITAL CAMERA"
     },
     "Q5859102": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             294,
             306
         ],
-        "format": "JPEG"
+        "format": "JPEG",
+        "orientation": 1,
+        "date": "",
+        "model": ""
     },
     "Q5375926": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             1312,
             2000
         ],
         "format": "JPEG"
     },
     "Q5619202": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             300,
             458
         ],
         "format": "JPEG"
     },
     "Q5686986": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             180,
             181
         ],
-        "format": "JPEG"
+        "format": "JPEG",
+        "orientation": 1,
+        "date": "",
+        "model": ""
     },
     "Q4485634": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             360,
             240
         ],
         "format": "PNG"
     },
     "Q4485622": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             1500,
             1000
         ],
         "format": "PNG"
     },
     "Q4485652": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             240,
             160
         ],
         "format": "PNG"
     },
     "Q4485643": {
-        "image": " ",
-        "size": [
+        "image": "",
+        "taille": [
             402,
             268
         ],
