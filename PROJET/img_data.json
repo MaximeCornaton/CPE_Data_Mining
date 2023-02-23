@@ -1,12 +1,12 @@
 {
     "Q7809730": {
-        "taille": [
+        "size": [
             320,
             250
         ],
         "format": "JPEG",
-        "orientation": "Paysage",
-        "couleur": {
+        "orientation": "landscape",
+        "colors": {
             "darkolivegreen": [
                 91,
                 77,
@@ -28,13 +28,13 @@
         "tags": []
     },
     "Q7650148": {
-        "taille": [
+        "size": [
             2736,
             3648
         ],
         "format": "JPEG",
-        "orientation": "Portrait",
-        "couleur": {
+        "orientation": "portrait",
+        "colors": {
             "lightgray": [
                 217,
                 211,
@@ -54,17 +54,18 @@
         "date": "2012:11:03 10:27:43",
         "model": "Canon PowerShot G12",
         "tags": [
-            "Sutter Brown"
+            "sutter",
+            "brown"
         ]
     },
     "Q7704028": {
-        "taille": [
+        "size": [
             966,
             773
         ],
         "format": "JPEG",
-        "orientation": "Paysage",
-        "couleur": {
+        "orientation": "landscape",
+        "colors": {
             "silver": [
                 196,
                 196,
@@ -84,17 +85,18 @@
         "date": "",
         "model": "",
         "tags": [
-            "Terry (dog)"
+            "terry",
+            "dog"
         ]
     },
     "Q7802871": {
-        "taille": [
+        "size": [
             1529,
             2048
         ],
         "format": "JPEG",
-        "orientation": "Portrait",
-        "couleur": {
+        "orientation": "portrait",
+        "colors": {
             "saddlebrown": [
                 96,
                 54,
@@ -116,13 +118,13 @@
         "tags": []
     },
     "Q7660509": {
-        "taille": [
+        "size": [
             2592,
             1944
         ],
         "format": "JPEG",
-        "orientation": "Paysage",
-        "couleur": {
+        "orientation": "landscape",
+        "colors": {
             "silver": [
                 179,
                 198,
