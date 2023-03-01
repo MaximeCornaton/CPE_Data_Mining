@@ -1,0 +1,299 @@
+{
+    "Q86516809-Q144": {
+        "size": [
+            "medium",
+            [
+                480,
+                640
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "darkkhaki": [
+                183,
+                172,
+                128
+            ],
+            "darkolivegreen": [
+                99,
+                84,
+                41
+            ]
+        },
+        "tags": [
+            "dog",
+            "néro"
+        ]
+    },
+    "Q97356971-Q144": {
+        "size": [
+            "large",
+            [
+                3264,
+                2448
+            ]
+        ],
+        "orientation": "landscape",
+        "format": "JPEG",
+        "colors": {
+            "darkkhaki": [
+                197,
+                168,
+                121
+            ],
+            "darkslategray": [
+                60,
+                47,
+                26
+            ]
+        },
+        "date": "2013:11:24 15:56:23",
+        "model": "iPhone 4S",
+        "tags": [
+            "dog"
+        ]
+    },
+    "Q958201-Q144": {
+        "size": [
+            "small",
+            [
+                280,
+                243
+            ]
+        ],
+        "orientation": "landscape",
+        "format": "PNG",
+        "colors": {},
+        "tags": [
+            "Nuisance",
+            "just",
+            "dog"
+        ]
+    },
+    "Q783490-Q14660": {
+        "size": [
+            "large",
+            [
+                1500,
+                2310
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "darkslategray": [
+                63,
+                61,
+                69
+            ],
+            "darkgray": [
+                142,
+                176,
+                198
+            ]
+        },
+        "date": "2016:09:02 15:19:33",
+        "model": "X013D",
+        "tags": [
+            "flag"
+        ]
+    },
+    "Q87783199-Q144": {
+        "size": [
+            "small",
+            [
+                263,
+                388
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "dimgray": [
+                113,
+                100,
+                79
+            ],
+            "silver": [
+                207,
+                195,
+                167
+            ]
+        },
+        "tags": [
+            "dog",
+            "thunder"
+        ]
+    },
+    "Q96176417-Q144": {
+        "size": [
+            "large",
+            [
+                3648,
+                2736
+            ]
+        ],
+        "orientation": "landscape",
+        "format": "JPEG",
+        "colors": {
+            "darkslategray": [
+                76,
+                76,
+                74
+            ],
+            "silver": [
+                188,
+                194,
+                186
+            ]
+        },
+        "date": "2010:09:24 22:53:50",
+        "model": "DMC-ZS3",
+        "tags": [
+            "wasao",
+            "dog"
+        ]
+    },
+    "Q96372991-Q144": {
+        "size": [
+            "large",
+            [
+                4224,
+                2816
+            ]
+        ],
+        "orientation": "landscape",
+        "format": "JPEG",
+        "colors": {
+            "darkslategray": [
+                81,
+                57,
+                53
+            ],
+            "rosybrown": [
+                194,
+                153,
+                118
+            ]
+        },
+        "date": "2019:07:27 16:57:47",
+        "model": "SLT-A65V",
+        "tags": [
+            "Elizabeth",
+            "Warren's",
+            "dog",
+            "bailey"
+        ]
+    },
+    "Q97280926-Q144": {
+        "size": [
+            "small",
+            [
+                235,
+                380
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "darkolivegreen": [
+                75,
+                75,
+                55
+            ],
+            "darkgray": [
+                187,
+                179,
+                171
+            ]
+        },
+        "tags": [
+            "dog"
+        ]
+    },
+    "Q697098-Q144": {
+        "size": [
+            "small",
+            [
+                400,
+                660
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "darkgray": [
+                178,
+                178,
+                178
+            ],
+            "darkslategray": [
+                80,
+                80,
+                80
+            ]
+        },
+        "tags": [
+            "strongheart",
+            "dog"
+        ]
+    },
+    "Q805807-Q144": {
+        "size": [
+            "medium",
+            [
+                648,
+                800
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "darkslategray": [
+                73,
+                73,
+                73
+            ],
+            "darkgray": [
+                175,
+                175,
+                175
+            ]
+        },
+        "tags": [
+            "balto",
+            "dog"
+        ]
+    },
+    "Q73521760-Q144": {
+        "size": [
+            "large",
+            [
+                3801,
+                5701
+            ]
+        ],
+        "orientation": "portrait",
+        "format": "JPEG",
+        "colors": {
+            "rosybrown": [
+                164,
+                152,
+                133
+            ],
+            "darkslategray": [
+                44,
+                42,
+                37
+            ]
+        },
+        "date": "2020:01:28 16:09:47",
+        "model": "NIKON D5200",
+        "tags": [
+            "Matapacos",
+            "negro",
+            "dog"
+        ]
+    }
+}
